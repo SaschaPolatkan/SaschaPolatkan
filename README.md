@@ -1,4 +1,12 @@
-## Hi there 👋
+# Welcome to my GitHub
+I'm a graduated researcher from Stuttgart and have worked on topological materials on which I did optical studies in large magnetic fields. 
+
+# About my Repos
+## Free-Carrier Magneto Optics
+When studying materials with optical probes, often one has to make reasonable assumptions about the free-carrier contributions, to separate them from the interband contributions. When magnetic fields are applied, the free-carrier response experiences a plasma-edge splitting. However, it is often not very intuitive how the response can look within a reasonable set of parameters. Thus, to more effectively discuss, I decided to visualize this response, writing my first Python GUI. Thus, the program looks ... alternative. This is because younger me thought it would be very insightful to implement the program with Tkinter. Older me knows better now. However, the program works like a charm.
+
+## PhD-Presentation
+My PhD-Presentation is hosted at: https://saschapolatkan.github.io/PhD-Presentation/index.html
 
 <!--
 **SaschaPolatkan/SaschaPolatkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
