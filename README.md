@@ -6,7 +6,7 @@ The free-carrier contribution in magnetic fields experiences a plasma edge split
 
 ## DPG-Presentation 2023
 I started experimenting with Web languages for the DPG conference 2023 in Dresden. The presentation was written using RevealJS and is hosted at:  
-https://saschapolatkan.github.io/DPG-Presentation-2023/RevealJS_GdPtBi/
+https://saschapolatkan.github.io/DPG-Presentation-2023/index.html
 
 ## PhD-Presentation
 For my PhD-Presentation (2024) I wrote my own Javascript utilities. The presentation is hosted at:  
